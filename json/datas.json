@@ -1,6 +1,15 @@
 {
-    "powered_by":{
-        "link":"files/torc_banner.png"
+    "powered_by": {
+        "link": "files/torc_banner.png"
     },
-    "banner_ads":[]
+    "banner_ads": [
+        "files/promotional-ads/android-banner.jpg",
+        "files/promotional-ads/building_forensics-banner.jpg",
+        "files/promotional-ads/crane_engineering-banner.jpg",
+        "files/promotional-ads/cyber-banner.jpg",
+        "files/promotional-ads/electricvehicles-banner.jpg",
+        "files/promotional-ads/engineassembly-banner.jpg",
+        "files/promotional-ads/Iot-and-home-automation-banner.jpg",
+        "files/promotional-ads/robotics-banner.jpg"
+    ]
 }
