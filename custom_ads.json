@@ -1,0 +1,29 @@
+{
+  "poweredBy": {
+    "link": "files/torc_banner.png"
+  },
+  "bannerAds": [
+    {
+      "image":"files/promotional-ads/android-banner.jpg",
+      "onClickUrl":"http://torcinfotech.in"
+      
+    },
+    "files/promotional-ads/building_forensics-banner.jpg",
+    "files/promotional-ads/crane_engineering-banner.jpg",
+    "files/promotional-ads/cyber-banner.jpg",
+    "files/promotional-ads/electricvehicles-banner.jpg",
+    "files/promotional-ads/engineassembly-banner.jpg",
+    "files/promotional-ads/Iot-and-home-automation-banner.jpg",
+    "files/promotional-ads/robotics-banner.jpg"
+  ],
+  "dashboardAds": [
+    {
+      "image":"https://janambhumi.in/files/userfiles/image/facebook-3-.jpg",
+      "onClickUrl": "https://www.facebook.com/linkineminem"
+    },
+    {
+      "image":"https://cdn.vox-cdn.com/thumbor/6qf0xjVJFVLEzVzXeORyas_oWvI=/0x0:4096x2645/920x613/filters:focal(1721x996:2375x1650):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/67225990/Suggested_Posts_in_Feed.0.png",
+      "onClickUrl":"https://www.instagram.com/linkin_eminem"
+    }
+    ]
+}
