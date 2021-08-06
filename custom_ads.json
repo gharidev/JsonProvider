@@ -2,7 +2,9 @@
   "poweredBy_bak": {
     "link": "files/torc_banner.png"
   },
-  "bannerAds": [],
+  "bannerAds": [
+    "files/promotional-ads/robotics-banner.jpg"
+   ],
   "bannerAds_": [
     {
       "image":"files/promotional-ads/android-banner.jpg",
